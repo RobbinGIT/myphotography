@@ -10,6 +10,7 @@ You can replace all images and use your own images by replacing the images and r
 ## Known Bugs
 ****This website is not responsive.....
 *** Need Advanced css to make it more friendly across mobile and tablets
+...
 ## Technologies Used
 The language used is purely HTML(hyper text markup language) and CSS (cascading style sheets) for making the website more appealing. 
 ## Support and contact details
