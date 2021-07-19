@@ -7,6 +7,7 @@ A Simple one page photography website showing the services the business offers a
 No installation required.
 This website is user friendly and can be opened in any browser.
 You can replace all images and use your own images by replacing the images and renaming the images in the html with the names of ur uploaded images.
+
 ## Known Bugs
 ****This website is not responsive.....
 *** Need Advanced css to make it more friendly across mobile and tablets
