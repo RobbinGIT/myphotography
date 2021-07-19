@@ -13,7 +13,7 @@ You can replace all images and use your own images by replacing the images and r
 ## Technologies Used
 The language used is purely HTML(hyper text markup language) and CSS (cascading style sheets) for making the website more appealing. 
 ## Support and contact details
-For any recommedations and issues you can contact Robbin Mwangi @robbinmwas on twitter. robbinmwas@gmail.com
+For any recommedations and issues you can contact Robbin Mwangi @robbinmwas on twitter. robbingmail@gmail.com
 ### License
 MIT License
 
