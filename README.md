@@ -8,6 +8,8 @@ A Simple one page photography website showing the services the business offers a
 No installation required.
 This website is user friendly and can be opened in any browser.
 You can replace all images and use your own images by replacing the images and renaming the images in the html with the names of ur uploaded images.
+## Design
+https://photos.google.com/photo/AF1QipNu2NwosQR1Nutn97k5WzBQOQQCnh0tSmbfVQdm
 
 ## Known Bugs
 ****This website is not responsive.....
